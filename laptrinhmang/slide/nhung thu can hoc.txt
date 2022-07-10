@@ -1,0 +1,45 @@
+error 4xx
+khong phai loi, ma la do server khong tiep nhan vi khong dam dam yeu cau ket noi 
+
+error 354:
+toi chap nhan lenh data nay nhung chua du du lieu, hay gui tiep di
+
+emty stream, dong rong
+
+MIME: Solution SMYP extensions
+
+Prent layer
+
+Base 64
+
+
+POP3
+có xác thực: authen
+RFC 1939
+
+FTP 
+RCF 959
+sử dụng 2 kết nối đồng thời, 
+1 gửi command: text
+2: gửi data: text ỏ nhị phân tùy dữ liệu
+có 2 loại Pasv, sẻver thụ động kết nối
+Astive: server chủ động kết nối
+
+## store procedure
+
+
+
+DataInputStream:
+- readChar() : 2 bytes 
+- readInt() : 4 bytes 
+- readLong() : 8 bytes 
+- readFloat() : 4 bytes 
+- readDouble() : 8 bytes 
+
+
+
+
+
+
+
+
